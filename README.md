@@ -23,4 +23,8 @@ O projeto Smart Plant é um sistema de automação para regar plantas com base n
 
 O sistema monitora continuamente a umidade do solo. Se a umidade do solo estiver abaixo do definido, o sistema inicia a rega por um período de tempo pré-determinado. Caso contrário, ele mantém a planta hidratada e exibe uma mensagem indicando isso.
 
+## Imagem do Projeto:
+
 ![01042022_115559 LMC](https://github.com/user-attachments/assets/a4f6e6aa-f493-4854-9662-57de309730aa)
+
+A placa de prototipagem utilizada nesse projeto é de desenvolvimento próprio, utiliza o microcontrolador ATmega328P.
